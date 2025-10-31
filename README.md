@@ -1,16 +1,14 @@
-## Hi there 👋
 
-<!--
-**ReginaLeonova/ReginaLeonova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I’m Regina
 
-Here are some ideas to get you started:
+Ex–digital marketer turned data explorer — I turn messy data into clear stories.
+Currently teaching English by day and decoding data by night.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧩 Skilled in SQL, Python, Tableau
+📊 Passionate about insights, behaviour, and the “why” behind numbers
+🌏 Building my path toward a data career in Japan
+
+📁 [Tableau Dashboards](https://public.tableau.com/app/profile/.77035291/vizzes) • [Featured Projects](https://github.com/ReginaLeonova?tab=repositories) • [LinkedIn](https://www.linkedin.com/in/regina-leonova-4a6191234/)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReginaLeonova&hide=contribs,prs)
+
