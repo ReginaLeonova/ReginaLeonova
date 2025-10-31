@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Regina<br><br>Ex–digital marketer turned data explorer — I turn messy data into clear stories. Currently teaching English by day and decoding data by night.<br><br>🧩 Skilled in SQL, Python, Tableau 📊 Passionate about insights, behaviour, and the “why” behind numbers 🌏 Building my path toward a data career in Japan
+👋 Hi, I’m Regina<br><br>Ex–digital marketer turned data explorer — I turn messy data into clear stories. Currently teaching English by day and decoding data by night.<br><br>🧩 Skilled in SQL, Python, Tableau<br/> 📊 Passionate about insights, behaviour, and the “why” behind numbers<br/> 🌏 Building my path toward a data career in Japan
 
 
 ## 🌐 Socials:
